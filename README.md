@@ -1,4 +1,4 @@
-### [Join Here!](http://www.birders.info)
+## [Join Here!](http://www.birders.info)
 
 This is a community for the discussion of birding-related topics. It's an inclusive, respectful place to network and have fun. It's not affiliated with any organization, and it isn't selling anything. Its upkeep is a volunteer labor of love.
 
@@ -31,7 +31,7 @@ These are all optional, but will probably help you make connections and find you
 
 This is all pretty low-maintenance, but to the extent that anyone runs it, that would be the administrators - currently:
 
-Josh Chapman 
+Josh Chapman
 [![Twitter](img/Twitter_Social_Icon_Rounded_Square_Color.png)](https://twitter.com/j_chapper)
 [![GitHub](img/GitHub-Mark.png)](https://github.com/joshuahchapman)
 

@@ -1,4 +1,4 @@
-## [Join Here!](http://www.birders.info)
+### [Join Here!](http://www.birders.info)
 
 This is a community for the discussion of birding-related topics. It's an inclusive, respectful place to network and have fun. It's not affiliated with any organization, and it isn't selling anything. Its upkeep is a volunteer labor of love.
 

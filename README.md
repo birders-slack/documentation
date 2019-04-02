@@ -27,3 +27,12 @@ These are all optional, but will probably help you make connections and find you
 
 - In Slack, ask your question in the #help channel.
 - If you can't get into Slack or prefer not to post there for whatever reason, you can email the administrators at birders.help@gmail.com.
+
+
+### Who runs this thing?
+
+It requires very little running. But to the extent that anyone runs it, that would be the administrators - currently:
+
+Josh Chapman 
+
+If you're interested in helping, please reach out! Hit us up on Slack or email birders.help@gmail.com.

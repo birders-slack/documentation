@@ -8,7 +8,7 @@ Slack is collaboration software produced by the company [Slack Technologies](htt
 
 ### How to join
 
-Anyone can join, and it's free - simply follow the steps at [birders.info](http://www.birders.info).
+Anyone can join, and it's free - simply follow the steps [here](https://bit.ly/2P87vCz).
 
 ### What to do when you join
 

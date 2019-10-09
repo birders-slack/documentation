@@ -1,4 +1,4 @@
-## [Join Here!](https://bit.ly/2P87vCz)
+## [Join Here!](https://bit.ly/2MtFbLA)
 
 This is a community for the discussion of birding-related topics. It's an inclusive, respectful place to network and have fun. It's not affiliated with any organization, and it isn't selling anything. Its upkeep is a volunteer labor of love.
 
@@ -8,7 +8,7 @@ Slack is collaboration software produced by the company [Slack Technologies](htt
 
 ### How to join
 
-Anyone can join, and it's free - simply follow the steps [here](https://bit.ly/2P87vCz).
+Anyone can join, and it's free - simply follow the steps [here](https://bit.ly/2MtFbLA).
 
 ### What to do when you join
 
